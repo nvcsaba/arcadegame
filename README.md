@@ -32,7 +32,8 @@
 
 ## Instructions
 
-	This is a very simple game where your goal is to move your charachter around the track so that you can reach the water without colliding any bugs on the way.
+	This is a very simple game where your goal is to move your charachter around the track so that you can reach
+	the water without colliding any bugs on the way.
 
 	Enemies are on the top of the map are moving from left to right with random speed.
 	If you collide with a bug your player resets at the bottom of the map and you can try again.
